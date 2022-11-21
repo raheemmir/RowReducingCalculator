@@ -7,9 +7,3 @@ Written in Python, using the SymPy library and fractions module, this calculator
 - Requiring students to be the ones to come up with the elementary row operations needed to reduce a matrix into rref
 - Taking care of only the computational side of things, preventing errors, but not sacrificing a user's opportunity to practice their skills
 
-
-
-
-
-
-This calculator is the best of both worlds, you get to enjoy coming up with the row operations, and the calculator handles all the computation!
