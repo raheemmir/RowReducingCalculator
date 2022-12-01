@@ -1,5 +1,9 @@
 # RowReducingCalculator
-### Welcome to the Matrix Row Reducing Calculator!
-Performing row operations to get a matrix in rref can be a tedious process, especially when it comes to making computational mistakes! <br>
-Most online calculators handle this problem, which is great, but they also handle the thinking required to come up with row operations, so you lose out on the opportunity to practice. <br>
-This calculator is the best of both worlds, you get to enjoy coming up with the row operations, and the calculator handles all the computation!
+### Welcome to the Matrix Row Reducing Calculator! <br>
+
+This project takes the form of a jupyter notebook, and is intended for the use of students/instructors, especially those who are studying/teaching linear algebra. <br>
+
+Written in Python, using the SymPy library and fractions module, this calculator differs itself from others by: <br> 
+- Requiring students to be the ones to come up with the elementary row operations needed to reduce a matrix into Reduced Row Echelon Form
+- Taking care of only the computational side of things, preventing errors, but not sacrificing a user's opportunity to practice their skills
+
